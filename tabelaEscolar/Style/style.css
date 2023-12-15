@@ -1,0 +1,65 @@
+body{
+    background-color:;
+    color: black;}
+#dashboard{
+    display:grid;
+    grid-template-columns: 1fr 4fr;
+    height: 100vh;
+}
+ul{
+    padding: 5%;
+}
+li{
+    list-style: none;
+}
+section{
+    padding: 5%;
+    background-color: white;
+    color: black;
+}
+#area-trabalho{
+    padding: 10%;
+    display: flex;
+    justify-content: center;
+    background-color: white; 
+    border:80px solid grey;
+    border-right: 60%;
+
+}
+.logosenai{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+}
+.conta{
+    margin: 0%;
+    padding: 20%;
+    display: inline-flex;
+    width: 200px;
+    height: 200px;
+}
+.barra{
+    display: inline-flex;
+    justify-content: center;
+    margin: 5%;
+}
+    /* border-radius: 30%;
+    border: 20px solid grey; */
+
+
+/* .tabela{
+    display:inline-flex;
+    justify-content: flex-end;
+    border: 50px solid grey;
+
+}
+.listalateral{
+    background-color: purple;
+}
+.pesquisa{
+    background-color: white;
+    display: flex;
+    justify-content: flex-start;
+} */
+
